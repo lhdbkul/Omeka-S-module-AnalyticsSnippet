@@ -110,7 +110,7 @@ class Module extends AbstractModule
         $startContent = ltrim(substr((string) $content, 0, 30));
         if (strpos($startContent, '<!DOCTYPE html>') === 0) {
             $this->trackCall('html', $viewEvent);
-        } elseif (strpos($startContent, '<?xml ') !== 0) {
+        } elseif (strpos($startContent, '<?xml ') === 0) {
             $this->trackCall('xml', $viewEvent);
         } elseif (json_decode($content) !== null) {
             $this->trackCall('json', $viewEvent);
