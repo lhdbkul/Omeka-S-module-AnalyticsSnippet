@@ -111,7 +111,7 @@ of the CeCILL license and that you accept its terms.
 Copyright
 ---------
 
-* Copyright Daniel Berthereau, 2017-2025 (see [Daniel-KM] on GitLab)
+* Copyright Daniel Berthereau, 2017-2026 (see [Daniel-KM] on GitLab)
 
 
 [Analytics Snippet]: https://gitlab.com/Daniel-KM/Omeka-S-module-AnalyticsSnippet
@@ -125,7 +125,7 @@ Copyright
 [Analytics Snippet Matomo/Piwik]: https://gitlab.com/Daniel-KM/Omeka-S-module-AnalyticsSnippetPiwik
 [installing a module]: https://omeka.org/s/docs/user-manual/modules/#installing-modules
 [Common]: https://gitlab.com/Daniel-KM/Omeka-S-module-Common
-[AnalyticsSnippet.zip]: https://github.com/Daniel-KM/Omeka-S-module-AnalyticsSnippet/releases
+[AnalyticsSnippet.zip]: https://gitlab.com/Daniel-KM/Omeka-S-module-AnalyticsSnippet/-/releases
 [module issues]: https://gitlab.com/Daniel-KM/Omeka-S-module-AnalyticsSnippet/-/issues
 [CeCILL v2.1]: https://www.cecill.info/licences/Licence_CeCILL_V2.1-en.html
 [GNU/GPL]: https://www.gnu.org/licenses/gpl-3.0.html
